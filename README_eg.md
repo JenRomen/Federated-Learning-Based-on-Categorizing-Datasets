@@ -2,3 +2,5 @@
 
 # Federated-Learning-Based-on-Categorizing-Datasets
  Divide the dataset based on categories, and assign each category to a user for federated learning.
+[main_split.py] is the main file for FedAvg, using [trainL.py] for training.
+[mainFedprox.py] is the main file for FedProx, using [trainFedprox.py] for training.
